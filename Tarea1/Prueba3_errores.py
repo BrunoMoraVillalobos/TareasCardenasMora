@@ -1,2 +1,2 @@
-def  El_duro(num) :
-    return num*4 
+def El_duro(num):
+    return num*4
